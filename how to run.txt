@@ -1,0 +1,9 @@
+step1: create environment in anaconda.
+	conda create -n myenv python=3.7
+
+step2: take conda location to that perticular folder. 
+	Or go to the working directory(launched jupyter notebook) 
+	cd (place where the folder is)
+
+step3: 
+
